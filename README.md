@@ -46,7 +46,7 @@ I upload the calendar_listing_price.csv in Tableau and created the graph below.
 Tableau File: Neighbourhood_pricing.twbx
 - https://github.com/deboraboche/Airbnb_Analysis/blob/main/Tableau%20Graphs/Average%20price%20per%20neighbourhood.png
 
-#Excel
+# Excel
 
 1)calendar_popular_month.xlsx : It is the listing.xlsx using the filtering Available = F.
 
