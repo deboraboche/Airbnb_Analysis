@@ -78,7 +78,9 @@ Occupancy Rate = $ \frac{(365 - AVG(availability365))}{365}$
 2.3) At listings_sept_2016.xlsx(Demand_price_listing tab): I created a column called Demand and use IF to divide in Low, medium and high demand.
 
 0 – 120 days – Low demand
+
 121 - 240 days – Medium demand
+
 241 - 360 days – High demand
 
 I used the pivot table with demand, count(id), AVG(price) and neighbourhood.
